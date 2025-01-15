@@ -1,5 +1,6 @@
 # Concise network models of path data
-This repository contains the implementation of the framework described in paper here.
+This repository contains the implementation of the framework described in paper:
+Sahasrabuddhe, R., Lambiotte, R., and Rosvall, M., 2025. Concise network models of memory dynamics reveal explainable patterns in path data. arXiv preprint [arXiv:2501.08302](https://arxiv.org/abs/2501.08302).
 
 ## Requirements
 
@@ -11,5 +12,5 @@ The `airports_example.ipynb` notebook contains a working example.
 
 ## Credits
 
-The paper was written by Rohit Sahasrabuddhe, Renaud Lambiotte, and Martin Rosvall. The Convex Non-negative Matrix Factorisation at the core of the framework is due to
+The Convex Non-negative Matrix Factorisation at the core of the framework is due to
 Ding, C.H., Li, T. and Jordan, M.I., 2008. Convex and semi-nonnegative matrix factorizations. IEEE transactions on pattern analysis and machine intelligence, 32(1), pp.45-55.

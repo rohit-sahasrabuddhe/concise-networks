@@ -8,7 +8,7 @@ The code was written in Python 3.9 and uses standard libraries such as `numpy`, 
 
 ## General usage
 
-The `airports_example.ipynb` notebook contains a working example.
+The `airports_example.ipynb` notebook contains a working example. The `synthetic_experiments.ipynb` contains the code to reproduce the results in Fig. 2 of the manuscript.
 
 ## Credits
 

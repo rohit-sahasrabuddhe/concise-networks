@@ -10,7 +10,7 @@ The code was written in Python 3.9 and uses standard libraries such as `numpy`, 
 
 The `airports_example.ipynb` notebook contains a working example.
 
-## Data and reproducbility
+## Data and reproducibility
 The `synthetic_experiments.ipynb` notebook contains the code to reproduce the results in Fig. 2 of the manuscript. 
 `airport_trigrams.txt` contains the transit trigrams extracted from flight itineraries. 
 The `lazega_data` folder contains the network structure of the Lazega law firm data.
